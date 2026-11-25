@@ -5,8 +5,10 @@ html {
 }
 
 h1 {
-  background-image: url('/spark-solder-maker-bench.png');
+  background-image: url('spark-solder-maker-bench.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  padding: 20px;
+  color: white;
 }   
